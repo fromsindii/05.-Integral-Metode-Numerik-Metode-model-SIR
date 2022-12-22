@@ -1,0 +1,1 @@
+# 05.-Integral-Metode-Numerik-Metode-model-SIR
